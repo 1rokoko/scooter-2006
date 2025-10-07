@@ -1,0 +1,130 @@
+{
+  "collections": [
+    {
+      "collection": "clients",
+      "meta": {
+        "collection": "clients",
+        "icon": "people_alt",
+        "note": "База данных клиентов",
+        "display_template": "{{first_name}} {{last_name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_value": "archived",
+        "unarchive_value": "active",
+        "sort_field": "last_name",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": null,
+        "collapse": "open"
+      },
+      "schema": {
+        "name": "clients"
+      }
+    },
+    {
+      "collection": "scooters",
+      "meta": {
+        "collection": "scooters",
+        "icon": "two_wheeler",
+        "note": "Инвентарь скутеров и мотоциклов",
+        "display_template": "{{model}} {{year}} ({{scooter_number_old}})",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_value": "retired",
+        "unarchive_value": "available",
+        "sort_field": "scooter_number_old",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": null,
+        "collapse": "open"
+      },
+      "schema": {
+        "name": "scooters"
+      }
+    },
+    {
+      "collection": "communications",
+      "meta": {
+        "collection": "communications",
+        "icon": "chat",
+        "note": "История коммуникаций с клиентами",
+        "display_template": "{{communication_type}} - {{subject}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "communication_date",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": null,
+        "collapse": "open"
+      },
+      "schema": {
+        "name": "communications"
+      }
+    },
+    {
+      "collection": "rentals",
+      "meta": {
+        "collection": "rentals",
+        "icon": "receipt_long",
+        "note": "Аренды скутеров",
+        "display_template": "#{{rental_number}} - {{client_name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_value": "completed",
+        "unarchive_value": "active",
+        "sort_field": "start_date",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": null,
+        "collapse": "open"
+      },
+      "schema": {
+        "name": "rentals"
+      }
+    },
+    {
+      "collection": "maintenance_records",
+      "meta": {
+        "collection": "maintenance_records",
+        "icon": "build",
+        "note": "История обслуживания",
+        "display_template": "{{maintenance_type}} - {{scooter.model}} ({{maintenance_date}})",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "maintenance_date",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 5,
+        "group": null,
+        "collapse": "open"
+      },
+      "schema": {
+        "name": "maintenance_records"
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,26 @@
+# Directus
+directus-simple/node_modules/
+directus-simple/data.db
+directus-simple/uploads/
+directus-simple/.env
+
+# Docker
+directus/.env
+directus/database/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
