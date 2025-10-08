@@ -1,0 +1,75 @@
+{
+  "timestamp": "2025-10-08T11:07:35.133Z",
+  "totalScooters": 52,
+  "expectedScooters": 52,
+  "checks": [
+    {
+      "name": "Количество записей",
+      "passed": true
+    },
+    {
+      "name": "Обязательные поля",
+      "passed": false
+    },
+    {
+      "name": "Уникальность номеров",
+      "passed": false
+    }
+  ],
+  "fieldStats": {
+    "power": 34,
+    "model": 40,
+    "year": 45,
+    "color": 41,
+    "client_name": 21,
+    "client_phone": 30,
+    "oil_change_date": 50,
+    "insurance_date": 3,
+    "main_photo": 33,
+    "price_1_year_rent": 27,
+    "price_6_month_high_season": 27,
+    "price_6_month_low_season": 27
+  },
+  "samples": [
+    {
+      "id": 135,
+      "scooter_number_old": "1007",
+      "model": null,
+      "year": 2023,
+      "color": "blue",
+      "status": "Доступен"
+    },
+    {
+      "id": 131,
+      "scooter_number_old": "142",
+      "model": null,
+      "year": 2023,
+      "color": "white",
+      "status": "Доступен"
+    },
+    {
+      "id": 157,
+      "scooter_number_old": "1450",
+      "model": "150cc",
+      "year": 2023,
+      "color": "red",
+      "status": "Доступен"
+    },
+    {
+      "id": 165,
+      "scooter_number_old": "1460",
+      "model": "GPX",
+      "year": 2023,
+      "color": null,
+      "status": "Доступен"
+    },
+    {
+      "id": 142,
+      "scooter_number_old": "176",
+      "model": null,
+      "year": null,
+      "color": "Red",
+      "status": "Доступен"
+    }
+  ]
+}

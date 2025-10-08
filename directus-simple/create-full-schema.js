@@ -1,4 +1,4 @@
-const axios = require('axios');
+ const axios = require('axios');
 
 const DIRECTUS_URL = 'http://localhost:8055';
 const EMAIL = 'seocos@gmail.com';

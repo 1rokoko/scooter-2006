@@ -1,0 +1,335 @@
+{
+  "timestamp": "2025-10-08T11:07:34.188Z",
+  "source": {
+    "total": 52,
+    "actual": 52
+  },
+  "validation": {
+    "valid": 52,
+    "invalid": 0,
+    "invalidRecords": []
+  },
+  "import": {
+    "success": 52,
+    "failed": 0,
+    "successRecords": [
+      {
+        "success": true,
+        "index": 0,
+        "scooter_number": "3119 (7904)",
+        "id": 115
+      },
+      {
+        "success": true,
+        "index": 1,
+        "scooter_number": "2848",
+        "id": 116
+      },
+      {
+        "success": true,
+        "index": 2,
+        "scooter_number": "7783 (94)",
+        "id": 117
+      },
+      {
+        "success": true,
+        "index": 3,
+        "scooter_number": "3002",
+        "id": 118
+      },
+      {
+        "success": true,
+        "index": 4,
+        "scooter_number": "5617",
+        "id": 119
+      },
+      {
+        "success": true,
+        "index": 5,
+        "scooter_number": "9806(96)",
+        "id": 120
+      },
+      {
+        "success": true,
+        "index": 6,
+        "scooter_number": "4993",
+        "id": 121
+      },
+      {
+        "success": true,
+        "index": 7,
+        "scooter_number": "1830 (98)",
+        "id": 122
+      },
+      {
+        "success": true,
+        "index": 8,
+        "scooter_number": "7039",
+        "id": 123
+      },
+      {
+        "success": true,
+        "index": 9,
+        "scooter_number": "752",
+        "id": 124
+      },
+      {
+        "success": true,
+        "index": 10,
+        "scooter_number": "8073",
+        "id": 125
+      },
+      {
+        "success": true,
+        "index": 11,
+        "scooter_number": "9960",
+        "id": 126
+      },
+      {
+        "success": true,
+        "index": 12,
+        "scooter_number": "8767(102)",
+        "id": 127
+      },
+      {
+        "success": true,
+        "index": 13,
+        "scooter_number": "3121 оранд",
+        "id": 128
+      },
+      {
+        "success": true,
+        "index": 14,
+        "scooter_number": "2988 (3120) КАпитан Амер бел",
+        "id": 129
+      },
+      {
+        "success": true,
+        "index": 15,
+        "scooter_number": "8532",
+        "id": 130
+      },
+      {
+        "success": true,
+        "index": 16,
+        "scooter_number": "142",
+        "id": 131
+      },
+      {
+        "success": true,
+        "index": 17,
+        "scooter_number": "9011",
+        "id": 132
+      },
+      {
+        "success": true,
+        "index": 18,
+        "scooter_number": "241",
+        "id": 133
+      },
+      {
+        "success": true,
+        "index": 19,
+        "scooter_number": "5135",
+        "id": 134
+      },
+      {
+        "success": true,
+        "index": 20,
+        "scooter_number": "1007",
+        "id": 135
+      },
+      {
+        "success": true,
+        "index": 21,
+        "scooter_number": "1850",
+        "id": 136
+      },
+      {
+        "success": true,
+        "index": 22,
+        "scooter_number": "9847",
+        "id": 137
+      },
+      {
+        "success": true,
+        "index": 23,
+        "scooter_number": "970",
+        "id": 138
+      },
+      {
+        "success": true,
+        "index": 24,
+        "scooter_number": "переднее крыло доставка",
+        "id": 139
+      },
+      {
+        "success": true,
+        "index": 25,
+        "scooter_number": "1888",
+        "id": 140
+      },
+      {
+        "success": true,
+        "index": 26,
+        "scooter_number": "9486",
+        "id": 141
+      },
+      {
+        "success": true,
+        "index": 27,
+        "scooter_number": "176",
+        "id": 142
+      },
+      {
+        "success": true,
+        "index": 28,
+        "scooter_number": "8476",
+        "id": 143
+      },
+      {
+        "success": true,
+        "index": 29,
+        "scooter_number": "8597",
+        "id": 144
+      },
+      {
+        "success": true,
+        "index": 30,
+        "scooter_number": "8798",
+        "id": 145
+      },
+      {
+        "success": true,
+        "index": 31,
+        "scooter_number": "4038",
+        "id": 146
+      },
+      {
+        "success": true,
+        "index": 32,
+        "scooter_number": "3934",
+        "id": 147
+      },
+      {
+        "success": true,
+        "index": 33,
+        "scooter_number": "7782",
+        "id": 148
+      },
+      {
+        "success": true,
+        "index": 34,
+        "scooter_number": "9067",
+        "id": 149
+      },
+      {
+        "success": true,
+        "index": 35,
+        "scooter_number": "8926",
+        "id": 150
+      },
+      {
+        "success": true,
+        "index": 36,
+        "scooter_number": "7045 (2513)",
+        "id": 151
+      },
+      {
+        "success": true,
+        "index": 37,
+        "scooter_number": "944",
+        "id": 152
+      },
+      {
+        "success": true,
+        "index": 38,
+        "scooter_number": "2240",
+        "id": 153
+      },
+      {
+        "success": true,
+        "index": 39,
+        "scooter_number": "9925",
+        "id": 154
+      },
+      {
+        "success": true,
+        "index": 40,
+        "scooter_number": "283",
+        "id": 155
+      },
+      {
+        "success": true,
+        "index": 41,
+        "scooter_number": "91",
+        "id": 156
+      },
+      {
+        "success": true,
+        "index": 42,
+        "scooter_number": "1450",
+        "id": 157
+      },
+      {
+        "success": true,
+        "index": 43,
+        "scooter_number": "9193",
+        "id": 158
+      },
+      {
+        "success": true,
+        "index": 44,
+        "scooter_number": "6704",
+        "id": 159
+      },
+      {
+        "success": true,
+        "index": 45,
+        "scooter_number": "3092",
+        "id": 160
+      },
+      {
+        "success": true,
+        "index": 46,
+        "scooter_number": "4736",
+        "id": 161
+      },
+      {
+        "success": true,
+        "index": 47,
+        "scooter_number": "2006",
+        "id": 162
+      },
+      {
+        "success": true,
+        "index": 48,
+        "scooter_number": "2078",
+        "id": 163
+      },
+      {
+        "success": true,
+        "index": 49,
+        "scooter_number": "4164",
+        "id": 164
+      },
+      {
+        "success": true,
+        "index": 50,
+        "scooter_number": "1460",
+        "id": 165
+      },
+      {
+        "success": true,
+        "index": 51,
+        "scooter_number": "9925",
+        "id": 166
+      }
+    ],
+    "failedRecords": []
+  },
+  "directus": {
+    "beforeImport": 0,
+    "afterImport": 52
+  }
+}

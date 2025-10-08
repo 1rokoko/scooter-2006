@@ -1,0 +1,173 @@
+{
+  "timestamp": "2025-10-08T09:58:02.851Z",
+  "summary": {
+    "googleSheets": 34,
+    "directus": 33,
+    "difference": 1
+  },
+  "comparison": [
+    {
+      "index": 0,
+      "directus": {
+        "id": 67,
+        "number": "1007",
+        "model": null,
+        "year": 2023,
+        "color": "blue"
+      },
+      "google": {
+        "number": "3119 (7904)",
+        "model": "150сс",
+        "year": "2024",
+        "color": "Orange"
+      }
+    },
+    {
+      "index": 1,
+      "directus": {
+        "id": 63,
+        "number": "142",
+        "model": null,
+        "year": 2023,
+        "color": "white"
+      },
+      "google": {
+        "number": "2848",
+        "model": "150сс",
+        "year": "2024",
+        "color": "grey"
+      }
+    },
+    {
+      "index": 2,
+      "directus": {
+        "id": 73,
+        "number": "176",
+        "model": null,
+        "year": null,
+        "color": "Red"
+      },
+      "google": {
+        "number": "7783 (94)",
+        "model": "150сс",
+        "year": "2024",
+        "color": ""
+      }
+    },
+    {
+      "index": 3,
+      "directus": {
+        "id": 54,
+        "number": "1830 (98)",
+        "model": "150сс",
+        "year": 2023,
+        "color": "red"
+      },
+      "google": {
+        "number": "3002",
+        "model": "150сс",
+        "year": "2023",
+        "color": "dark blue"
+      }
+    },
+    {
+      "index": 4,
+      "directus": {
+        "id": 68,
+        "number": "1850",
+        "model": null,
+        "year": 2023,
+        "color": "red"
+      },
+      "google": {
+        "number": "5617",
+        "model": "150сс",
+        "year": "2024",
+        "color": "white "
+      }
+    },
+    {
+      "index": 5,
+      "directus": {
+        "id": 71,
+        "number": "1888",
+        "model": null,
+        "year": 2023,
+        "color": "white"
+      },
+      "google": {
+        "number": "9806(96)",
+        "model": "150сс",
+        "year": "2023",
+        "color": "white "
+      }
+    },
+    {
+      "index": 6,
+      "directus": {
+        "id": 65,
+        "number": "241",
+        "model": null,
+        "year": 2023,
+        "color": "dark blue"
+      },
+      "google": {
+        "number": "4993",
+        "model": "150сс",
+        "year": "2024",
+        "color": "unique sticker girl"
+      }
+    },
+    {
+      "index": 7,
+      "directus": {
+        "id": 48,
+        "number": "2848",
+        "model": "150сс",
+        "year": 2024,
+        "color": "grey"
+      },
+      "google": {
+        "number": "1830 (98)",
+        "model": "150сс",
+        "year": "2023",
+        "color": "red "
+      }
+    },
+    {
+      "index": 8,
+      "directus": {
+        "id": 61,
+        "number": "2988 (3120) КАпитан Амер бел",
+        "model": null,
+        "year": 2024,
+        "color": "sticker cap America"
+      },
+      "google": {
+        "number": "7039",
+        "model": "150сс",
+        "year": "2022",
+        "color": "red "
+      }
+    },
+    {
+      "index": 9,
+      "directus": {
+        "id": 50,
+        "number": "3002",
+        "model": "150сс",
+        "year": 2023,
+        "color": "dark blue"
+      },
+      "google": {
+        "number": "752",
+        "model": "150сс",
+        "year": "2023",
+        "color": "white "
+      }
+    }
+  ],
+  "missingInDirectus": [
+    "3119 (7904)"
+  ]
+}
